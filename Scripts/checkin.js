@@ -18,7 +18,7 @@ NavePnow
 */
 
 const accounts = [
-    ["MIMEMI", "http://996icu.pw/auth/login", "username@mail.com", "password,"]
+    ["MIMEMI", "https://www.doufen.me/user/panel", "yiyeshu07@gmail.com", "ttz13414161616,"]
 ]
 
 async function launch() {
